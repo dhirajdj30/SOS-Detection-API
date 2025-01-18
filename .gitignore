@@ -1,0 +1,5 @@
+venv
+__pycache__
+dj.py
+sensor_data.csv
+test.py
